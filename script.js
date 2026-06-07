@@ -1,4 +1,3 @@
-
 const texts = [
     "Building the web, one pixel at a time",
     "Dark mode enthusiast",
