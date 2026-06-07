@@ -23,8 +23,7 @@ Season	Colors
 ❄️ Winter	Dark blue `#0B192C` • Cold red `#8B0000`	
 🌸 Spring	Olive green `#556B2F` • Soft gold `#D4AF37`	
 ☀️ Summer	Bright gold `#FFD700` • Deep blue `#1B2838`	
-🛠️ Tech Stack
-<p align="center">
+##🛠️ Tech Stack
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
